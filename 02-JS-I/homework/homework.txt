@@ -1,0 +1,5 @@
+Variables Es como cuando guardas en un recipiente un helado que vas a comerte luego. Se escribe var + espacio + nombre de la variable.
+Strings Son objetos que representan el tema que vamos a trabajar en cada función
+Funciones Son cadenas de pasos que nos permiten obtener el resultado que esperamos
+Declaraciones Son las características que le otorgamos a una variable.
+Valores booleanos Son el verdadero y el falso que buscamos en los resultados de nuestras funciones
