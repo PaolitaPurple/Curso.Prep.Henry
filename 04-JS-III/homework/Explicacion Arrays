@@ -1,0 +1,12 @@
+Arrays: Son una especie de lista donde guardamos objetos que podemos asociar, cambiar o eliminar después según nuestra necesidad.
+Ejemplo: Mamá hace la lista para ir al mercado:
+
+const ListaMercado = ["Jabón", "leche", "huevos", "aceite", "café", "pollo", "escoba", "crema dental", "toallas de cocina",
+"bolsas de basura", "pescado"];
+
+Si quisiéramos saber cuántos productos tiene nuestra lista en total, hacemos esto:
+
+const ListaMercado = ["Jabón", "leche", "huevos", "aceite", "café", "pollo", "escoba", "crema dental", "toallas de cocina",
+"bolsas de basura", "pescado"];
+
+console.log(ListaMercado.lenght) // 11
