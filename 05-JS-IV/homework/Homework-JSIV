@@ -1,0 +1,25 @@
+Objetos y propiedades: Son cosas que poseen características propias dentro de una lista. Ej: 
+Supongamos que nuestra lista se llama: "Las partes de la cara" y está compuesta por varios órganos que poseen propiedades
+características especiales. Así:
+- Ojos (redondos, cafés)
+- Boca (pequeña, rosa)
+- Nariz (larga, plana)
+
+Hay que tener en cuenta que los objetos pueden ser los mismos pero, al igual que los humanos; sus propiedades o
+características son diferentes.
+
+Métodos: Son aquellas acciones que pueden realizar los objetos o acciones que podemos lograr que realicen. Ej:
+Regresamos a nuestra lista de "Las partes de la cara" y vemos que cada órgano de la cara tiene una función y 
+además podemos hacer que realicen más acciones. Así:
+
+-Los ojos sirven para ver lo que nos rodea.
+-La boca nos permite hablar con los demás pero, también nos sirve para comer
+-La nariz sirve para respirar pero, también nos permite oler lo que hay a nuestro alrededor (perfumes, comida, malos olores)
+
+Bucle FOR_IN: Es la manera en la que podemos ver las propiedades de un objeto sin importar cuántas características posee.
+
+Notacion de puntos: (.) La usamos cuando queremos acceder a una característica de un objeto que existe en el sistema.
+Notacion de corchetes: ({}) La usamos cuando queremos conocer la característica de un objeto pero, solamente requerimos del
+nombre de dicha propiedad para verla y el sistema busca si ésa propiedad existe dentro del objeto mencionado.
+
+
